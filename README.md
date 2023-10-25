@@ -16,10 +16,7 @@ The React Tailwind To-Do App is a fun and feature-rich task management applicati
 
 To use the React Tailwind To-Do App, follow these simple steps:
 
-1. **Clone the Repository**: Start by cloning this GitHub repository to your local machine. You can do this by running the following command in your terminal:
-
-   ```
-   git clone https://github.com/your-username/react-tailwind-todo-app.git
+1. **Clone the Repository**: Start by cloning this GitHub repository to your local machine. 
    ```
 
 2. **Install Dependencies**: Navigate to the project directory and install the necessary dependencies using npm or yarn.
@@ -34,9 +31,7 @@ To use the React Tailwind To-Do App, follow these simple steps:
 
    ```
    npm start
-   # OR
-   yarn start
-   ```
+   
 
 4. **Use the App**: You can now add, modify, delete, and mark tasks as completed in the React Tailwind To-Do App. Your tasks will be stored locally in your browser, ensuring persistence across sessions.
 
@@ -56,3 +51,7 @@ Enjoy using the React Tailwind To-Do App and have a great time managing your tas
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+https://github.com/saurabhp0007/Todo-react/assets/105418511/eeb30d23-dfb1-4c35-b679-b810919b9b69
+
