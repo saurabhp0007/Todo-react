@@ -21,8 +21,7 @@ To use the React Tailwind To-Do App, follow these simple steps:
 
 2. **Install Dependencies**: Navigate to the project directory and install the necessary dependencies using npm or yarn.
 
-   ```
-   cd react-tailwind-todo-app
+  
    npm install
   
    ```
